@@ -8,7 +8,7 @@
 
 ### Connect with me:
 
-[![Linkedin](https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465)]([https://linkedin.com/in/md-tuhin-saud-149908194](https://www.linkedin.com/in/alejandro-romeral-del-olmo-5963446b/))
+[![Linkedin](https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465)]([[https://linkedin.com/in/md-tuhin-saud-149908194](https://www.linkedin.com/in/alejandro-romeral-del-olmo-5963446b/)])
 
 ### Languages and Tools:
 
@@ -17,24 +17,7 @@
 ![mysql](	https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Git](https://camo.githubusercontent.com/bd2bd127c104ba5c98bb12c70801b075aee1f040009089510f69554300e7ff41/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d4630353033323f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465)
 
-#### Profile Views
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tuhinsaud4614&label=Profile%20views&color=bc4720&style=flat" alt="tuhinsaud4614" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tuhinsaud4614&theme=onedark" alt="tuhinsaud4614" /></a> </p>
-
-# 📊GitHub Stats :
-
-![](https://github-readme-stats.vercel.app/api?username=tuhinsaud4614&theme=dracula&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=tuhinsaud4614&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tuhinsaud4614&theme=dracula&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
-[website]: https://portfolio-aac78.web.app
-[twitter]: https://twitter.com/the_rare_rat
-[youtube]: https://www.youtube.com/channel/UCQnZMNJIincAQAZzy3TXXWw
-[linkedin]: https://linkedin.com/in/md-tuhin-saud-149908194
-[gmail]: mailto:tuhin.saud.sebpo@gmail.com
-[github]: https://github.com/tuhinsaud4614
+[linkedin]: https://www.linkedin.com/in/alejandro-romeral-del-olmo-5963446b
 
 ### ✍️Random Dev Quote
 
