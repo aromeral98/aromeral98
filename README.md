@@ -2,7 +2,7 @@
 
 ## I'm a Full Stack Developer !!
 
-- 🌱 I’m currently learning solidity and typescript.
+- 🌱 I’m currently learning nest and typescript.
 - 🥅 2022 Goals: Improve my skills and develop lots of projects for my own
 - ⚡ Fun fact: I love to spend time with me & it boosts up my thinking capability
 
