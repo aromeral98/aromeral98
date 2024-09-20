@@ -30,8 +30,6 @@ Developed a mobile application using React Native and Firebase as the backend fo
 - Fully migrated from an old version of Firebase to the new one.
 - Migrated the entire project from JavaScript to TypeScript.
 
-*I have attached some screenshots of the app.*
-
 ## 📂 Repositories
 All my work is in private repositories. **If you are interested in seeing any code or my activity history, please feel free to contact me.**
 
